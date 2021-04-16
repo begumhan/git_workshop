@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hej värld!
 Jag heter begum
+=======
+Hej hej värld!
+>>>>>>> modif
